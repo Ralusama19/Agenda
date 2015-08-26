@@ -1,2 +1,3 @@
-# AgendaPRO2
-Practica de PRO2
+# Agenda
+
+Task manager made using C++.
